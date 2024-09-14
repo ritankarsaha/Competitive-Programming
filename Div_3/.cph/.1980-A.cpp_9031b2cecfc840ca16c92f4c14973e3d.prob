@@ -1,0 +1,1 @@
+{"name":"Local: 1980-A","url":"/Users/ritankarsaha/Code/Competitve_Coding/Div_3/1980-A.cpp","tests":[{"id":1717426622983,"input":"3\n10 1\nBGECDCBDED\n10 2\nBGECDCBDED\n9 1\nBBCDEFFGG\n","output":"2\n5\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ritankarsaha/Code/Competitve_Coding/Div_3/1980-A.cpp","group":"local","local":true}

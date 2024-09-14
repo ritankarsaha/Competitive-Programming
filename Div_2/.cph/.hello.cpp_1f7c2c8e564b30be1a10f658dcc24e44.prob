@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"/Users/ritankarsaha/Code/Competitve_Coding/Div_2/hello.cpp","tests":[{"id":1717081519382,"input":"3\n1\n2\n1 3\n2\n3 3\n3 3 3\n4\n4 2 1 2\n2 1 5 2 3","output":"3\n1\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ritankarsaha/Code/Competitve_Coding/Div_2/hello.cpp","group":"local","local":true}
